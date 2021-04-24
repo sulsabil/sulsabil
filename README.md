@@ -2,7 +2,7 @@
 #### I am front-end web developer. 
 I am a self motivated web developer specializing in Front End Web Development. I am looking forward to working in an  institution which will provide me the platform to enhance my professional skills and knowledge so that I can be useful both to the Institute and to myself.
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  REACT / JS / HTML / CSS / Bootstrap
 
 - 🔭 I’m currently having a front end course from programming hero.learning react and javascript most of times. 
 
